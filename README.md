@@ -5,6 +5,10 @@
 - 📫 How to reach me ...Jfred0084@gmail.com/(773) 408-2309
 
 <!---
-Ifeojobe/Ifeojobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ifeojobe/Ifeojobe is a ✨ special ✨ repository because its `README.md` (thiv file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+bvsibs
+3763RB1233TEPuZ6itM1khRw5XxuQBDi42
+
+bitcoin:19Zpo1ZnT7Lhq32kavR5V2G1pKhZf9ihAa
